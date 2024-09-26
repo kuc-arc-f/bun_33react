@@ -4,9 +4,9 @@
 
  Author  :
 
- date    : 2024/09/23
+ date    : 2024/09/25
 
- update :
+ update : 2024/09/26
 
 ***
 
@@ -26,6 +26,7 @@ bun run dev
 ***
 ### blog
 
+https://knakatech-blog.pages.dev/posts/163
 
 ***
 # License
