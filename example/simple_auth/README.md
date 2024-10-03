@@ -26,15 +26,6 @@ AUTH_EXPIRED_TIME=120
 ```
 
 ***
-### build
-* dev
-```
-yarn build
-#dev
-yarn dev
-```
-
-***
 ### blog
 
 
