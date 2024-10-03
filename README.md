@@ -24,6 +24,12 @@ bun run dev
 ```
 
 ***
+### example
+
+* chakra : chakraUI example
+* simple_auth: auth example
+
+***
 ### blog
 
 https://knakatech-blog.pages.dev/posts/163
