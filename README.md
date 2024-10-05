@@ -6,7 +6,7 @@
 
  date    : 2024/09/25
 
- update : 2024/10/05 
+ update : 2024/10/06 
 
 ***
 
@@ -28,6 +28,7 @@ bun run dev
 
 * chakra : chakraUI example
 * simple_auth: auth example
+* mail_test : mail send (Gmail) example
 
 ***
 ### blog
